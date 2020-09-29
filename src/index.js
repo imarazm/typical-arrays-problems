@@ -24,7 +24,7 @@ exports.max = function max(array) {
         arrMax = array[i];
       }
     }
-    return min = arrMax;
+    return max = arrMax;
     // return Math.max.apply(null, array);
   }
 }
